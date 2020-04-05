@@ -7,7 +7,7 @@ Realtime chat app with websocket using Node.js, Express and Socket.io with Vanil
 
 #Usage:
 
-npm npm install
+npm install
 
 npm run dev
 
